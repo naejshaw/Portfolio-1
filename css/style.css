@@ -87,7 +87,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('images/home.jpg') no-repeat;
+    background: url('https://github.com/naejshaw/teste/blob/1ed4ccd4bd9663f78cc1e5139e38bd5068dcbef8/images/home.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
